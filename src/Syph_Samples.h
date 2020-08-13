@@ -1,7 +1,7 @@
 #ifndef Samples_h
 #define Samples_h
 
-#include "Queue.h"
+#include "Syph_Queue.h"
 
 namespace Syph
 {

@@ -1,7 +1,7 @@
 #ifndef Queue_h
 #define Queue_h
 
-#include "Option.h"
+#include "Syph_Option.h"
 
 namespace Syph
 {

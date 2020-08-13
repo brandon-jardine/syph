@@ -9,8 +9,8 @@
 
 #include <Arduino.h>
 
-#include "Option.h"
-#include "Samples.h"
+#include "Syph_Option.h"
+#include "Syph_Samples.h"
 
 namespace Syph
 {
