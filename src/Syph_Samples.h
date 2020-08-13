@@ -1,5 +1,5 @@
-#ifndef Samples_h
-#define Samples_h
+#ifndef Syph_Samples_h
+#define Syph_Samples_h
 
 #include "Syph_Queue.h"
 

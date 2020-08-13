@@ -1,5 +1,5 @@
-#ifndef Option_h
-#define Option_h
+#ifndef Syph_Option_h
+#define Syph_Option_h
 
 namespace Syph
 {

@@ -1,5 +1,5 @@
-#ifndef Queue_h
-#define Queue_h
+#ifndef Syph_Queue_h
+#define Syph_Queue_h
 
 #include "Syph_Option.h"
 

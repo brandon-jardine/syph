@@ -4,8 +4,8 @@
     Created by Brandon T. Jardine, 2020
 */
 
-#ifndef SmoothPot_h
-#define SmoothPot_h
+#ifndef Syph_SmoothPot_h
+#define Syph_SmoothPot_h
 
 #include <Arduino.h>
 
